@@ -48,5 +48,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaiba786&show_icons=true&locale=en&layout=compact" alt="sohaiba786" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaiba786&" alt="sohaiba786" /></p>
