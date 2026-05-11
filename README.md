@@ -49,3 +49,4 @@ If something here resonates, say hi on [LinkedIn](https://www.linkedin.com/in/ma
 <p align="center">
   <sub>Built with curiosity · Shipped with discipline</sub>
 </p>
+<img src="./assets/footer.svg" />
