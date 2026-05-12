@@ -1,13 +1,6 @@
-<div align="center">
+<img src="./assets/Malik-Sohaib-Ahmad.png" />
 
-<pre>
-  ╭────────────────────────────────────────────╮
-  │                                            │
-  │   ░░░  Sohaib Ahmad                        │
-  │   Full Stack & AI Engineer                 │
-  │                                            │
-  ╰────────────────────────────────────────────╯
-</pre>
+<div align="center">
 
 **I architect multi-cloud platforms, real-time systems, and RAG / AI products end-to-end.**
 
