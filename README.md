@@ -14,10 +14,10 @@
 
 ### Focus
 
-- **Platforms** — Multi-cloud (AWS · GCP), containers, CI/CD, services that scale.
-- **Real-time** — WebSockets, live pipelines, systems that feel instant.
-- **AI in production** — RAG, embeddings, LLM APIs, guarded + observable deployments.
-- **Craft** — This [portfolio](https://malik-sohaib.vercel.app/) is built with **React**, **TypeScript**, **Vite**, **Tailwind**, **Three.js**, **Mermaid**, and a lot of motion polish.
+- **Platforms**: Multi-cloud (AWS · GCP), containers, CI/CD, services that scale.
+- **Real-time**: WebSockets, live pipelines, systems that feel instant.
+- **AI in production**: RAG, embeddings, LLM APIs, guarded + observable deployments.
+- **Craft** :This [portfolio](https://malik-sohaib.vercel.app/) is built with **React**, **TypeScript**, **Vite**, **Tailwind**, **Three.js**, **Mermaid**, and a lot of motion polish.
 
 ### Stack snapshot
 
